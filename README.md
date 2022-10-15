@@ -18,7 +18,6 @@ About me
 ![NodeJS](https://img.shields.io/badge/-Node.js-507FFF?style=plastic&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express.js-8A45EB?style=plastic&logo=express)
 
-### Links 
-[![Portfolio](https://img.shields.io/badge/-PORTFOLIO-E34EEB?style=plastic&logo=googlechrome)](https://rickytickytavy69.github.io/My-new-Portfolio-2022/)
+### Links
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-EB179D?style=plastic&logo=linkedin)](https://www.linkedin.com/in/artem-white-7b0496250/)
 
