@@ -5,7 +5,6 @@ About me
 ## Hey there! My Name is Artem, I am a Full Stack Web Developer.
 ## I live in Düsseldorf, Germany.
 ## My main Programming Language is JavaScript
-## I am actually looking for a job, so feel free to contact me
 
 ### Languages and Tools
 
